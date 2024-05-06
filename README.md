@@ -1,10 +1,3 @@
-<head>
-  <title>Countdown Timer</title>
-  <style>
-    .green { color: green; }
-    .bold { font-weight: bold; }
-  </style>
-</head>
 
 # Countdown Timer
 
