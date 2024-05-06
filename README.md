@@ -44,4 +44,4 @@
 <br>
 
 ## Author
-<p>This project is developed by Fiza07. If you have any questions, contact me or submit an issue on GitHub.</p>
+<p>This project is developed by Fiza.</p>
